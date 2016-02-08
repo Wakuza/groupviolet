@@ -1,0 +1,9 @@
+//pay attention to the order in which the files are imported
+@import 'colors';
+@import 'nav';
+@import 'index';
+@import 'input';
+@import 'addFaculty/addFaculty';
+@import 'manageFaculty/manageFaculty';
+@import 'login/login';
+@import 'page';
